@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.16'
-gem 'ruby' . '1.9.3'
+gem 'ruby' , '1.9.3'
 group :development do
   gem 'sqlite3', '1.3.5'
 end
